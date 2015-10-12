@@ -1,0 +1,21 @@
+Student Info Format: 1
+Description: some free text
+Number of students: 2
+Name: Alice Foo
+Email: abc123@wildcats.unh.edu
+Lecture: Mon 8:00-9:00
+Year: 1
+Sex: Male
+Number of good times: 1
+Thu 13:00-14:00
+Number of possible times: 1
+Tue 8:30-9:30
+Name: Bob Bar
+Email: def456@wildcats.unh.edu
+Lecture: Wed 14:10-15:10
+Year: 3
+Sex: Female
+Number of good times: 1
+Thu 13:00-14:00
+Number of possible times: 1
+Tue 8:30-9:30
