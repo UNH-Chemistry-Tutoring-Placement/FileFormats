@@ -1,0 +1,23 @@
+Student Info Format: 1
+Description: some free text
+Number of students: 2
+Name: Alice Foo
+Email: abc123@wildcats.unh.edu
+Professor: Dr. Frankenstein
+Year: 1
+Sex: Male
+Student text response: some free text
+Number of good times: 1
+Thu 13:00-14:00
+Number of possible times: 1
+Tue 8:30-9:30
+Name: Bob Bar
+Email: def456@wildcats.unh.edu
+Professor: Dr. Einstein
+Year: 3
+Sex: Female
+Student text response: some free text
+Number of good times: 1
+Thu 13:00-14:00
+Number of possible times: 1
+Tue 8:30-9:30
