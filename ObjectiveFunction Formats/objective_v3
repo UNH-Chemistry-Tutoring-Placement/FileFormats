@@ -5,5 +5,5 @@ max group size: 9
 below min penalty: 10
 above max penalty: 10
 possible choice penalty: 1
-diff lecture penalty: 10
+diff professor penalty: 10
 gender solo penalty: 2
