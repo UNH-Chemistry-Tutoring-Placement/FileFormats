@@ -105,7 +105,7 @@ Description: A bunch of students
 Number of students: 268
 Name: Jessica Ohrenberger
 Email: jo1016@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 0
@@ -114,7 +114,7 @@ Mon: 2:40 - 4:00
 Thu: 2:10 - 3:40
 Name: Amanda Kabel
 Email: amk1006@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -123,7 +123,7 @@ Number of possible times: 1
 Tue: 12:40 - 2:00
 Name: Molly Cuvellier
 Email: mec1031@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 3
@@ -135,7 +135,7 @@ Thu: 11:10 - 12:30
 Thu: 3:40 - 5:00
 Name: Ashley Taylor
 Email: act1006@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 4
@@ -147,7 +147,7 @@ Number of possible times: 1
 Wed: 4:10 - 5:30
 Name: Marissa Messina
 Email: mjm1030@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 2
@@ -158,7 +158,7 @@ Mon: 2:40 - 4:00
 Thu: 10:40 - 12:00
 Name: Bailey Orvis
 Email: bbo@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 4
 Sex: Female
 Number of good times: 0
@@ -166,7 +166,7 @@ Number of possible times: 1
 Mon: 2:40 - 4:00
 Name: Grace DiPersio
 Email: Ged1001@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 5
@@ -182,7 +182,7 @@ Thu: 9:10 - 10:30
 Thu: 3:40 - 5:00
 Name: Derek Boynton
 Email: dmo252@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 3
 Sex: Male
 Number of good times: 0
@@ -190,7 +190,7 @@ Number of possible times: 1
 Mon: 2:40 - 4:00
 Name: Cassie Woodes
 Email: Cpw1007@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 2
@@ -199,7 +199,7 @@ Thu: 11:10 - 12:30
 Number of possible times: 0
 Name: Sydney Johnson
 Email: sj1025@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 4
@@ -214,7 +214,7 @@ Thu: 12:40 - 2:00
 Thu: 3:40 - 5:00
 Name: Katelyn Franz
 Email: kf1025@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 0
@@ -224,7 +224,7 @@ Thu: 10:40 - 12:00
 Thu: 11:10 - 12:30
 Name: Leah Tzizik
 Email: lsm33@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 3
 Sex: Female
 Number of good times: 3
@@ -236,7 +236,7 @@ Tue: 2:10 - 3:30
 Thu: 10:40 - 12:00
 Name: Brenna Gildea
 Email: brg1006@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 2
@@ -246,7 +246,7 @@ Number of possible times: 1
 Thu: 3:40 - 5:00
 Name: Jonathan  Plickys
 Email: jp1049@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Male
 Number of good times: 2
@@ -257,7 +257,7 @@ Wed: 3:10 - 4:30
 Thu: 1:10 - 2:30
 Name: Jamison Cwiak
 Email: jlc1004@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Male
 Number of good times: 1
@@ -268,7 +268,7 @@ Thu: 1:10 - 2:30
 Thu: 2:10 - 3:40
 Name: Brady Silva
 Email: bjb59@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Male
 Number of good times: 1
@@ -278,7 +278,7 @@ Tue: 11:10 - 12:30
 Thu: 10:40 - 12:00
 Name: Jamie Barton
 Email: jei565@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 3
 Sex: Male
 Number of good times: 4
@@ -291,7 +291,7 @@ Thu: 11:10 - 12:30
 Thu: 12:40 - 2:00
 Name: Andrew Greaves
 Email: ag1048@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Male
 Number of good times: 1
@@ -300,7 +300,7 @@ Number of possible times: 1
 Tue: 2:10 - 3:30
 Name: Molly Riehs
 Email: mri@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 2
 Sex: Female
 Number of good times: 1
@@ -309,7 +309,7 @@ Number of possible times: 1
 Mon: 4:40 - 6:00
 Name: Claire  Martindale
 Email: cmm2024@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 2
 Sex: Female
 Number of good times: 0
@@ -322,7 +322,7 @@ Thu: 11:10 - 12:30
 Thu: 12:40 - 2:00
 Name: Julie Ferrell
 Email: jax595@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 3
 Sex: Female
 Number of good times: 2
@@ -333,7 +333,7 @@ Mon: 2:40 - 4:00
 Mon: 4:40 - 6:00
 Name: Christian Portland
 Email: clp1005@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Male
 Number of good times: 3
@@ -361,7 +361,7 @@ Thu: 2:10 - 3:40
 Thu: 3:40 - 5:00
 Name: David Prior
 Email: dap1002@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Male
 Number of good times: 1
@@ -370,7 +370,7 @@ Number of possible times: 1
 Tue: 9:40 - 11:00
 Name: Kelly Trainor
 Email: krt2000@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 2
 Sex: Female
 Number of good times: 1
@@ -379,7 +379,7 @@ Number of possible times: 1
 Thu: 2:10 - 3:40
 Name: Maximilian Bruno
 Email: mpb11@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 3
 Sex: Male
 Number of good times: 3
@@ -390,7 +390,7 @@ Number of possible times: 1
 Tue: 11:10 - 12:30
 Name: Olivia Tasho
 Email: omt1003@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 6
@@ -417,7 +417,7 @@ Thu: 12:40 - 2:00
 Thu: 3:40 - 5:00
 Name: Rachel Smithline
 Email: ras2006@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 2
 Sex: Female
 Number of good times: 1
@@ -428,7 +428,7 @@ Tue: 3:40 - 5:00
 Thu: 3:40 - 5:00
 Name: Aung Khant Nyar
 Email: an2023@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 2
 Sex: Male
 Number of good times: 1
@@ -446,7 +446,7 @@ Tue: 5:40 - 7:00
 Wed: 11:10 - 12:30
 Name: Mariah Ferrelli
 Email: mef2009@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 2
 Sex: Female
 Number of good times: 1
@@ -455,7 +455,7 @@ Number of possible times: 1
 Tue: 11:10 - 12:30
 Name: Colin Greeley
 Email: ctg1002@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Male
 Number of good times: 1
@@ -464,7 +464,7 @@ Number of possible times: 1
 Thu: 1:10 - 2:30
 Name: Shannon Grady
 Email: seg1006@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 2
@@ -475,7 +475,7 @@ Tue: 3:10 - 4:30
 Thu: 12:40 - 2:00
 Name: Christopher  Shek
 Email: Cts1005@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Male
 Number of good times: 6
@@ -503,7 +503,7 @@ Thu: 2:10 - 3:40
 Thu: 3:40 - 5:00
 Name: Anthony Ciarla
 Email: ajc1034@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Male
 Number of good times: 1
@@ -513,7 +513,7 @@ Mon: 4:40 - 6:00
 Thu: 11:10 - 12:30
 Name: Brittany Moffatt
 Email: bam1026@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 2
@@ -525,7 +525,7 @@ Tue: 5:40 - 7:00
 Thu: 1:10 - 2:30
 Name: Kendall Leddin
 Email: kbl1000@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 3
@@ -538,7 +538,7 @@ Tue: 5:40 - 7:00
 Wed: 3:10 - 4:30
 Name: Melissa Cary
 Email: msc1012@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -548,7 +548,7 @@ Tue: 10:40 - 1:00
 Thu: 3:40 - 5:00
 Name: Marissa Toci
 Email: mnt2000@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 2
 Sex: Female
 Number of good times: 1
@@ -557,7 +557,7 @@ Number of possible times: 1
 Tue: 5:40 - 7:00
 Name: Ashley Rosmarinofski
 Email: anr2003@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 2
 Sex: Female
 Number of good times: 1
@@ -565,7 +565,7 @@ Mon: 2:40 - 4:00
 Number of possible times: 0
 Name: Elizabeth Mahoney
 Email: emahoney48@yahoo.com
-Lecture: CB
+Professor: CB
 Year: 2
 Sex: Female
 Number of good times: 1
@@ -574,7 +574,7 @@ Number of possible times: 1
 Tue: 5:40 - 7:00
 Name: Devin Gillis
 Email: dsg2000@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 2
 Sex: Male
 Number of good times: 8
@@ -601,7 +601,7 @@ Thu: 1:10 - 2:30
 Thu: 3:40 - 5:00
 Name: Layla Saad
 Email: lms1019@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 0
@@ -609,7 +609,7 @@ Number of possible times: 1
 Mon: 2:40 - 4:00
 Name: Samantha Cosquete
 Email: ssc1002@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 2
@@ -619,7 +619,7 @@ Number of possible times: 1
 Mon: 2:40 - 4:00
 Name: Athena Ryan
 Email: amr1018@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 0
@@ -629,7 +629,7 @@ Thu: 2:10 - 3:40
 Thu: 3:40 - 5:00
 Name: Paul O'Hanlon
 Email: paul.h.ohanlon@gmail.com
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Male
 Number of good times: 6
@@ -657,7 +657,7 @@ Thu: 2:10 - 3:40
 Thu: 3:40 - 5:00
 Name: Sarah Kenny
 Email: sarahmorgankenny@gmail.com
-Lecture: CB
+Professor: CB
 Year: 3
 Sex: Female
 Number of good times: 2
@@ -667,7 +667,7 @@ Number of possible times: 1
 Mon: 2:40 - 4:00
 Name: Peter Tansey
 Email: pet1003@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Male
 Number of good times: 0
@@ -675,7 +675,7 @@ Number of possible times: 1
 Mon: 2:40 - 4:00
 Name: Nathan Cornwell
 Email: nrc2002@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 2
 Sex: Male
 Number of good times: 2
@@ -685,7 +685,7 @@ Number of possible times: 1
 Tue: 3:40 - 5:00
 Name: Jade Long
 Email: jl1074@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -694,7 +694,7 @@ Number of possible times: 1
 Mon: 2:40 - 4:00
 Name: Michaela Blackwell
 Email: mrb1014@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 2
@@ -705,7 +705,7 @@ Mon: 2:40 - 4:00
 Tue: 5:40 - 7:00
 Name: Anastasia George
 Email: amg2009@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 4
@@ -716,7 +716,7 @@ Thu: 3:40 - 5:00
 Number of possible times: 0
 Name: Christina Gautreau
 Email: cmg1006@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -725,7 +725,7 @@ Number of possible times: 1
 Tue: 3:10 - 4:30
 Name: Angelica Pelletier
 Email: aap1017@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -734,7 +734,7 @@ Number of possible times: 1
 Tue: 3:40 - 5:00
 Name: Matthew Jackson
 Email: mtj1003@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Male
 Number of good times: 4
@@ -762,7 +762,7 @@ Thu: 1:10 - 2:30
 Thu: 3:40 - 5:00
 Name: Marielle Parker
 Email: mp1057@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 0
@@ -774,7 +774,7 @@ Wed: 3:10 - 4:30
 Wed: 4:10 - 5:30
 Name: Karyn Lomeli
 Email: Krl2003@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 3
 Sex: Female
 Number of good times: 4
@@ -786,7 +786,7 @@ Number of possible times: 1
 Mon: 4:40 - 6:00
 Name: Isabella  Cook
 Email: ic1003@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 2
@@ -797,7 +797,7 @@ Tue: 3:10 - 4:30
 Tue: 3:40 - 5:00
 Name: emilee ensko
 Email: egensko@gmail.com
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 0
@@ -807,7 +807,7 @@ Thu: 10:40 - 12:00
 Thu: 11:10 - 12:30
 Name: Casey Lauter
 Email: cal2002@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 2
 Sex: Female
 Number of good times: 1
@@ -817,7 +817,7 @@ Tue: 5:40 - 7:00
 Thu: 12:40 - 2:00
 Name: Eleni Bruzik
 Email: edb1003@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 2
 Sex: Female
 Number of good times: 2
@@ -827,7 +827,7 @@ Number of possible times: 1
 Mon: 4:40 - 6:00
 Name: Bruna Pereira
 Email: bfp1001@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -836,7 +836,7 @@ Number of possible times: 1
 Mon: 4:40 - 6:00
 Name: Claudia Kumar
 Email: ckk1000@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 7
@@ -852,7 +852,7 @@ Tue: 3:40 - 5:00
 Tue: 5:40 - 7:00
 Name: Randal Coulstring
 Email: rac2006@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 2
 Sex: Male
 Number of good times: 6
@@ -879,7 +879,7 @@ Thu: 2:10 - 3:40
 Thu: 3:40 - 5:00
 Name: Kathryn Bennett
 Email: kab1006@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 2
@@ -891,7 +891,7 @@ Mon: 4:40 - 6:00
 Thu: 1:10 - 2:30
 Name: Norma Kindell-Leeman
 Email: nlk1000@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 2
@@ -901,7 +901,7 @@ Number of possible times: 1
 Tue: 12:40 - 2:00
 Name: Hanna Palanchian
 Email: hp1017@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -910,7 +910,7 @@ Number of possible times: 1
 Mon: 2:40 - 4:00
 Name: Isabelle Banker
 Email: inb1001@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -920,7 +920,7 @@ Tue: 5:40 - 7:00
 Thu: 3:40 - 5:00
 Name: Madalyn Stella
 Email: p@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 5
@@ -948,7 +948,7 @@ Thu: 1:10 - 2:30
 Thu: 2:10 - 3:40
 Name: Hunter Thompson
 Email: UnsunGunner@winning.com
-Lecture: CB
+Professor: CB
 Year: 2
 Sex: Male
 Number of good times: 0
@@ -957,7 +957,7 @@ Mon: 2:40 - 4:00
 Wed: 3:10 - 4:30
 Name: Lee DeOrsey
 Email: ljd2000@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 2
 Sex: Male
 Number of good times: 1
@@ -967,7 +967,7 @@ Tue: 5:40 - 7:00
 Thu: 3:40 - 5:00
 Name: Holland  Driscoll
 Email: had1004@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Male
 Number of good times: 1
@@ -976,7 +976,7 @@ Number of possible times: 1
 Tue: 5:40 - 7:00
 Name: Jessica Schanlaber
 Email: jts1003@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -987,7 +987,7 @@ Tue: 11:10 - 12:30
 Tue: 12:40 - 2:00
 Name: Erin Cullather
 Email: eec1003@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 3
@@ -998,7 +998,7 @@ Number of possible times: 1
 Mon: 2:40 - 4:00
 Name: Belinda Felicia
 Email: bf2004@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 2
 Sex: Female
 Number of good times: 2
@@ -1008,7 +1008,7 @@ Number of possible times: 1
 Tue: 11:10 - 12:30
 Name: Molly Lynn Dallas
 Email: mld1017@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 0
@@ -1019,7 +1019,7 @@ Thu: 11:10 - 12:30
 Thu: 2:10 - 3:40
 Name: Frances Serwicki
 Email: fes1001@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Male
 Number of good times: 2
@@ -1031,7 +1031,7 @@ Thu: 1:10 - 2:30
 Thu: 2:10 - 3:40
 Name: Douglas Parker
 Email: dap1016@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 2
 Sex: Male
 Number of good times: 6
@@ -1048,7 +1048,7 @@ Thu: 2:10 - 3:40
 Thu: 3:40 - 5:00
 Name: Sydney Snelling
 Email: sgs1002@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -1056,7 +1056,7 @@ Mon: 2:40 - 4:00
 Number of possible times: 0
 Name: Mackenzie Stanley
 Email: mes4080@gmail.com
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 2
@@ -1067,7 +1067,7 @@ Mon: 2:40 - 4:00
 Thu: 3:40 - 5:00
 Name: Jordan Smith
 Email: jms1067@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 2
 Sex: Male
 Number of good times: 2
@@ -1078,7 +1078,7 @@ Mon: 4:40 - 6:00
 Tue: 3:10 - 4:30
 Name: Haley Torr
 Email: ht1007@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -1088,7 +1088,7 @@ Mon: 4:40 - 6:00
 Tue: 9:40 - 11:00
 Name: Brian Davis
 Email: bpd1001@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Male
 Number of good times: 7
@@ -1116,7 +1116,7 @@ Thu: 10:40 - 12:00
 Thu: 11:10 - 12:30
 Name: Nhen Hunter
 Email: nhenhunter@gmail.com
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Male
 Number of good times: 0
@@ -1125,7 +1125,7 @@ Mon: 4:40 - 6:00
 Wed: 4:10 - 5:30
 Name: Carington Stuber
 Email: cms1033@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 3
@@ -1140,7 +1140,7 @@ Thu: 2:10 - 3:40
 Thu: 3:40 - 5:00
 Name: Madeline Meranda
 Email: mcm1031@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 2
@@ -1150,7 +1150,7 @@ Number of possible times: 1
 Thu: 3:40 - 5:00
 Name: Emily Pagliarini
 Email: emily.pagliarini@gmail.com
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 0
@@ -1159,7 +1159,7 @@ Tue: 12:40 - 2:00
 Tue: 2:10 - 3:30
 Name: Whitley Spencer
 Email: wws1001@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -1168,7 +1168,7 @@ Number of possible times: 1
 Wed: 11:10 - 12:30
 Name: Jessica Haskins
 Email: jlh1020@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 2
@@ -1179,7 +1179,7 @@ Tue: 11:10 - 12:30
 Tue: 12:40 - 2:00
 Name: Anna Dorrance
 Email: and1004@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 5
@@ -1192,7 +1192,7 @@ Number of possible times: 1
 Thu: 2:10 - 3:40
 Name: Jillian Lurvey
 Email: jml1032@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 3
@@ -1202,7 +1202,7 @@ Thu: 2:10 - 3:40
 Number of possible times: 0
 Name: Zachary Adinilfi
 Email: zpa1001@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Male
 Number of good times: 1
@@ -1215,7 +1215,7 @@ Thu: 2:10 - 3:40
 Thu: 3:40 - 5:00
 Name: Chantal Booker
 Email: cab2017@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 2
 Sex: Female
 Number of good times: 1
@@ -1225,7 +1225,7 @@ Tue: 11:10 - 12:30
 Tue: 12:40 - 2:00
 Name: Brittany Driscoll
 Email: bgd1001@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 3
@@ -1236,7 +1236,7 @@ Number of possible times: 1
 Thu: 9:10 - 10:30
 Name: Sean Soliz
 Email: sas1003@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Male
 Number of good times: 0
@@ -1244,7 +1244,7 @@ Number of possible times: 1
 Tue: 3:40 - 5:00
 Name: Nate LaTourette
 Email: ndl1002@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Male
 Number of good times: 1
@@ -1254,7 +1254,7 @@ Mon: 4:40 - 6:00
 Wed: 4:10 - 5:30
 Name: Gabrielle Tsakiris
 Email: gt1007@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 4
@@ -1281,7 +1281,7 @@ Thu: 2:10 - 3:40
 Thu: 3:40 - 5:00
 Name: Chris Lamphere
 Email: cgl1000@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Male
 Number of good times: 2
@@ -1293,7 +1293,7 @@ Tue: 3:10 - 4:30
 Tue: 3:40 - 5:00
 Name: Katherine Almeida
 Email: kga1000@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -1302,7 +1302,7 @@ Number of possible times: 1
 Thu: 10:40 - 12:00
 Name: Laura Vincent
 Email: laura.vincent@aol.com
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -1310,7 +1310,7 @@ Mon: 2:40 - 4:00
 Number of possible times: 0
 Name: John Sibilia
 Email: JRS2015@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 2
 Sex: Male
 Number of good times: 3
@@ -1321,7 +1321,7 @@ Number of possible times: 1
 Wed: 12:10 - 1:30
 Name: Abigail Clark
 Email: akc1004@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -1331,7 +1331,7 @@ Mon: 2:40 - 4:00
 Thu: 2:10 - 3:40
 Name: Riley McDonald
 Email: ram1007@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -1341,7 +1341,7 @@ Tue: 3:10 - 4:30
 Thu: 11:10 - 12:30
 Name: Linda Mamakos
 Email: lindamamakos@gmail.com
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -1349,7 +1349,7 @@ Tue: 5:40 - 7:00
 Number of possible times: 0
 Name: Sharil Deleon
 Email: snd1002@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 8
@@ -1365,7 +1365,7 @@ Number of possible times: 1
 Tue: 9:40 - 11:00
 Name: Emily Balcom
 Email: eab1009@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 2
@@ -1376,7 +1376,7 @@ Thu: 2:10 - 3:40
 Thu: 3:40 - 5:00
 Name: Carley Slade
 Email: cas1@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Male
 Number of good times: 3
@@ -1388,7 +1388,7 @@ Wed: 11:10 - 12:30
 Thu: 1:10 - 2:30
 Name: Stephanie Pagan
 Email: sgp2000@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 2
 Sex: Female
 Number of good times: 1
@@ -1397,7 +1397,7 @@ Number of possible times: 1
 Tue: 12:40 - 2:00
 Name: Emily Berry
 Email: esb1003@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -1408,7 +1408,7 @@ Wed: 3:10 - 4:30
 Thu: 11:10 - 12:30
 Name: Victoria Curtin
 Email: vc1009@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -1436,7 +1436,7 @@ Thu: 2:10 - 3:40
 Thu: 3:40 - 5:00
 Name: Amada Guapisaca
 Email: ag1066@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 0
@@ -1444,7 +1444,7 @@ Number of possible times: 1
 Tue: 9:40 - 11:00
 Name: Kayla Carlisle
 Email: kec2003@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 2
 Sex: Female
 Number of good times: 1
@@ -1453,7 +1453,7 @@ Number of possible times: 1
 Thu: 9:10 - 10:30
 Name: Elizabeth Sheridan
 Email: ems2000@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 2
 Sex: Female
 Number of good times: 2
@@ -1466,7 +1466,7 @@ Thu: 1:10 - 2:30
 Thu: 2:10 - 3:40
 Name: Abigail Chase
 Email: ajc1009@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -1475,7 +1475,7 @@ Number of possible times: 1
 Mon: 2:40 - 4:00
 Name: Li Zekun
 Email: zl10@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Male
 Number of good times: 5
@@ -1494,7 +1494,7 @@ Thu: 12:40 - 2:00
 Thu: 3:40 - 5:00
 Name: Madeline Juffras
 Email: majuffras@gmail.com
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 3
@@ -1504,7 +1504,7 @@ Thu: 1:10 - 2:30
 Number of possible times: 0
 Name: Emily Mariano
 Email: ejm2007@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 2
 Sex: Female
 Number of good times: 1
@@ -1513,7 +1513,7 @@ Number of possible times: 1
 Thu: 1:10 - 2:30
 Name: Hannah Coco
 Email: hmc1001@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 4
@@ -1541,7 +1541,7 @@ Thu: 1:10 - 2:30
 Thu: 2:10 - 3:40
 Name: Sarah Henry
 Email: srh1009@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 2
@@ -1558,7 +1558,7 @@ Tue: 3:40 - 5:00
 Tue: 5:40 - 7:00
 Name: Emily Dambach
 Email: eld1002@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -1566,7 +1566,7 @@ Tue: 2:10 - 3:30
 Number of possible times: 0
 Name: Brianna Looney
 Email: bml1006@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 3
@@ -1577,7 +1577,7 @@ Number of possible times: 1
 Tue: 3:40 - 5:00
 Name: Jillian Ward
 Email: jw1044@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -1586,7 +1586,7 @@ Number of possible times: 1
 Mon: 4:40 - 6:00
 Name: Andrew Meagher
 Email: apm2005@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 2
 Sex: Male
 Number of good times: 1
@@ -1596,7 +1596,7 @@ Wed: 4:10 - 5:30
 Thu: 9:10 - 10:30
 Name: Stephanie Baldwin
 Email: snb1000@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -1605,7 +1605,7 @@ Number of possible times: 1
 Tue: 12:40 - 2:00
 Name: Hayley Lapierre
 Email: hcl1002@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -1614,7 +1614,7 @@ Number of possible times: 1
 Thu: 2:10 - 3:40
 Name: Haleigh Peavey
 Email: hmp2002@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 2
 Sex: Female
 Number of good times: 1
@@ -1623,7 +1623,7 @@ Number of possible times: 1
 Thu: 11:10 - 12:30
 Name: Natasha Richardson
 Email: nmr1007@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 4
@@ -1636,7 +1636,7 @@ Mon: 4:40 - 6:00
 Tue: 12:40 - 2:00
 Name: Lindsay Bosworth
 Email: lrb1003@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -1647,7 +1647,7 @@ Thu: 2:10 - 3:40
 Thu: 3:40 - 5:00
 Name: Katherine Dombroski
 Email: kld1004@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -1657,7 +1657,7 @@ Mon: 4:40 - 6:00
 Tue: 9:40 - 11:00
 Name: Erica Lyster
 Email: eml1007@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 9
@@ -1685,7 +1685,7 @@ Thu: 2:10 - 3:40
 Thu: 3:40 - 5:00
 Name: Jessica  Gates
 Email: jg1039@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -1693,7 +1693,7 @@ Mon: 2:40 - 4:00
 Number of possible times: 0
 Name: Catherine McComish
 Email: cm1102@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -1701,7 +1701,7 @@ Mon: 2:40 - 4:00
 Number of possible times: 0
 Name: Andrew Salant
 Email: as1105@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Male
 Number of good times: 4
@@ -1729,7 +1729,7 @@ Thu: 2:10 - 3:40
 Thu: 3:40 - 5:00
 Name: Noah Kaplan
 Email: nak1009@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 2
 Sex: Male
 Number of good times: 2
@@ -1739,7 +1739,7 @@ Number of possible times: 1
 Wed: 3:10 - 4:30
 Name: Audrey Berenson
 Email: akb1005@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 7
@@ -1755,7 +1755,7 @@ Tue: 9:40 - 11:00
 Thu: 9:10 - 10:30
 Name: Danya Gaudet
 Email: deg1002@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -1765,7 +1765,7 @@ Tue: 11:10 - 12:30
 Wed: 11:10 - 12:30
 Name: Amanda Walsh
 Email: acw1007@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 2
@@ -1782,7 +1782,7 @@ Tue: 3:40 - 5:00
 Tue: 5:40 - 7:00
 Name: Abigail Concannon
 Email: abbyconcannon@comcast.net
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -1792,7 +1792,7 @@ Mon: 2:40 - 4:00
 Thu: 10:40 - 12:00
 Name: Nicolette Bonaquist
 Email: nbonaquist777@gmail.com
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 2
@@ -1803,7 +1803,7 @@ Mon: 2:40 - 4:00
 Thu: 12:40 - 2:00
 Name: Sabrina Vail
 Email: sev2004@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 2
 Sex: Female
 Number of good times: 1
@@ -1814,7 +1814,7 @@ Thu: 1:10 - 2:30
 Thu: 2:10 - 3:40
 Name: Colleen Kennedy
 Email: cmt323@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 3
 Sex: Female
 Number of good times: 6
@@ -1842,7 +1842,7 @@ Thu: 1:10 - 2:30
 Thu: 2:10 - 3:40
 Name: Karissa Braga
 Email: keb1015@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 0
@@ -1850,7 +1850,7 @@ Number of possible times: 1
 Tue: 2:10 - 3:30
 Name: Joseph Haviland
 Email: jeh2001@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Male
 Number of good times: 1
@@ -1859,7 +1859,7 @@ Number of possible times: 1
 Tue: 11:10 - 12:30
 Name: Tina Sergi
 Email: tes1006@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -1868,7 +1868,7 @@ Number of possible times: 1
 Thu: 3:40 - 5:00
 Name: Sophia Gottlieb
 Email: sqg1000@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 0
@@ -1877,7 +1877,7 @@ Mon: 2:40 - 4:00
 Mon: 4:40 - 6:00
 Name: Allison Prendergast
 Email: amp1024@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 4
@@ -1889,7 +1889,7 @@ Number of possible times: 1
 Thu: 9:10 - 10:30
 Name: Alexis Lambert
 Email: all1009@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 2
@@ -1900,7 +1900,7 @@ Tue: 12:40 - 2:00
 Thu: 12:40 - 2:00
 Name: Joshua Lussier
 Email: jrl1008@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Male
 Number of good times: 1
@@ -1910,7 +1910,7 @@ Mon: 2:40 - 4:00
 Wed: 3:10 - 4:30
 Name: Emily Grace Sagnella
 Email: es14@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 2
 Sex: Female
 Number of good times: 1
@@ -1920,7 +1920,7 @@ Wed: 3:10 - 4:30
 Wed: 4:10 - 5:30
 Name: Michael Moheban
 Email: msm2008@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 2
 Sex: Male
 Number of good times: 1
@@ -1929,7 +1929,7 @@ Number of possible times: 1
 Thu: 3:40 - 5:00
 Name: Alexander Ellsworth
 Email: ace1001@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Male
 Number of good times: 3
@@ -1942,7 +1942,7 @@ Thu: 10:40 - 12:00
 Thu: 2:10 - 3:40
 Name: Ellen Galvao
 Email: egv24@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 5
 Sex: Female
 Number of good times: 1
@@ -1952,7 +1952,7 @@ Mon: 2:40 - 4:00
 Thu: 11:10 - 12:30
 Name: Kiley Kennedy
 Email: kbk1003@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 6
@@ -1969,7 +1969,7 @@ Thu: 9:10 - 10:30
 Thu: 1:10 - 2:30
 Name: Kathryn Baker
 Email: kb1076@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -1977,7 +1977,7 @@ Tue: 5:40 - 7:00
 Number of possible times: 0
 Name: Alexander Tognazzi
 Email: tognazzia@comcast.net
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Male
 Number of good times: 1
@@ -1986,7 +1986,7 @@ Number of possible times: 1
 Thu: 2:10 - 3:40
 Name: Ashley Bonnette
 Email: aeb1009@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 4
@@ -2002,7 +2002,7 @@ Thu: 1:10 - 2:30
 Thu: 2:10 - 3:40
 Name: MARA JAFFARIAN
 Email: met84@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 5
 Sex: Female
 Number of good times: 1
@@ -2010,7 +2010,7 @@ Wed: 12:10 - 1:30
 Number of possible times: 0
 Name: Jack Born
 Email: jgx45@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 4
 Sex: Male
 Number of good times: 9
@@ -2029,7 +2029,7 @@ Wed: 4:10 - 5:30
 Thu: 3:40 - 5:00
 Name: Shealyn  Redmond
 Email: smr1004@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 0
@@ -2037,7 +2037,7 @@ Number of possible times: 1
 Wed: 11:10 - 12:30
 Name: Olivia Guzman
 Email: Ojg1000@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 0
@@ -2047,7 +2047,7 @@ Mon: 4:40 - 6:00
 Tue: 9:40 - 11:00
 Name: Bethany Cleaver
 Email: blc2003@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -2055,7 +2055,7 @@ Wed: 11:10 - 12:30
 Number of possible times: 0
 Name: Sofia Ragonese
 Email: slr1007@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 2
@@ -2066,7 +2066,7 @@ Tue: 12:40 - 2:00
 Wed: 11:10 - 12:30
 Name: Emma Faddoul
 Email: eff1000@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 11
@@ -2094,7 +2094,7 @@ Thu: 1:10 - 2:30
 Thu: 2:10 - 3:40
 Name: Rachel Friedland
 Email: rdf1003@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -2103,7 +2103,7 @@ Number of possible times: 1
 Tue: 3:10 - 4:30
 Name: Victoria Libby
 Email: vml2001@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 2
 Sex: Female
 Number of good times: 1
@@ -2111,7 +2111,7 @@ Wed: 11:10 - 12:30
 Number of possible times: 0
 Name: Christopher LaSalle
 Email: Cj@lasalles.net
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Male
 Number of good times: 1
@@ -2120,7 +2120,7 @@ Number of possible times: 1
 Tue: 3:10 - 4:30
 Name: Delaney Todd
 Email: djt@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -2129,7 +2129,7 @@ Number of possible times: 1
 Thu: 1:10 - 2:30
 Name: Victoria Markiewicz
 Email: vem2006@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 3
 Sex: Female
 Number of good times: 1
@@ -2139,7 +2139,7 @@ Tue: 5:40 - 7:00
 Wed: 4:10 - 5:30
 Name: Tierra Myers
 Email: tem1003@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 0
@@ -2147,7 +2147,7 @@ Number of possible times: 1
 Mon: 2:40 - 4:00
 Name: Kaitlyn DeChirico
 Email: kmd1025@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -2157,7 +2157,7 @@ Mon: 4:40 - 6:00
 Tue: 2:10 - 3:30
 Name: Michael Goulet
 Email: mro367@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 4
 Sex: Male
 Number of good times: 3
@@ -2170,7 +2170,7 @@ Thu: 2:10 - 3:40
 Thu: 3:40 - 5:00
 Name: Ryan Doherty
 Email: rmd1008@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Male
 Number of good times: 3
@@ -2198,7 +2198,7 @@ Thu: 2:10 - 3:40
 Thu: 3:40 - 5:00
 Name: Rebecca Philibert
 Email: rmp1006@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 2
@@ -2207,7 +2207,7 @@ Tue: 2:10 - 3:30
 Number of possible times: 0
 Name: Avery Van De Water
 Email: alv1002@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -2216,7 +2216,7 @@ Number of possible times: 1
 Thu: 9:10 - 10:30
 Name: Alyssa Dawidczyk
 Email: asd1005@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 0
@@ -2224,7 +2224,7 @@ Number of possible times: 1
 Mon: 2:40 - 4:00
 Name: Norella Roche
 Email: nar1008@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 7
@@ -2251,7 +2251,7 @@ Thu: 12:40 - 2:00
 Thu: 1:10 - 2:30
 Name: Baylee LaBree
 Email: Bl1034@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 0
@@ -2259,7 +2259,7 @@ Number of possible times: 1
 Wed: 3:10 - 4:30
 Name: Nicole Williamson
 Email: Naw1005@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 4
@@ -2272,7 +2272,7 @@ Mon: 4:40 - 6:00
 Tue: 10:40 - 1:00
 Name: Kylee Wrath
 Email: kaw1004@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 6
@@ -2287,7 +2287,7 @@ Tue: 9:40 - 11:00
 Thu: 9:10 - 10:30
 Name: Christopher Cleary
 Email: cjc2001@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 2
 Sex: Male
 Number of good times: 3
@@ -2299,7 +2299,7 @@ Wed: 11:10 - 12:30
 Wed: 12:10 - 1:30
 Name: Alexis Boulanger
 Email: akb1008@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -2307,7 +2307,7 @@ Mon: 2:40 - 4:00
 Number of possible times: 0
 Name: Christopher Roberts
 Email: crob97@gmail.com
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Male
 Number of good times: 1
@@ -2316,7 +2316,7 @@ Number of possible times: 1
 Tue: 11:10 - 12:30
 Name: <Unanswered> Coppola
 Email: mcc1014@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Male
 Number of good times: 1
@@ -2324,7 +2324,7 @@ Wed: 11:10 - 12:30
 Number of possible times: 0
 Name: Tiffany Driesse
 Email: tmd1011@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 0
@@ -2333,7 +2333,7 @@ Mon: 2:40 - 4:00
 Tue: 5:40 - 7:00
 Name: Joshua Winn
 Email: jdw1006@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Male
 Number of good times: 2
@@ -2344,7 +2344,7 @@ Mon: 2:40 - 4:00
 Mon: 4:40 - 6:00
 Name: Claudia Beck
 Email: cjb1030@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -2356,7 +2356,7 @@ Wed: 11:10 - 12:30
 Wed: 4:10 - 5:30
 Name: Christopher Ziadeh
 Email: cz1008@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Male
 Number of good times: 1
@@ -2366,7 +2366,7 @@ Tue: 9:40 - 11:00
 Tue: 12:40 - 2:00
 Name: Sara Ocanovic
 Email: so1018@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -2375,7 +2375,7 @@ Number of possible times: 1
 Thu: 12:40 - 2:00
 Name: Sarah Lafleur
 Email: snl1001@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 3
@@ -2388,7 +2388,7 @@ Wed: 12:10 - 1:30
 Wed: 4:10 - 5:30
 Name: Melissa Perry
 Email: mnp1006@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -2397,7 +2397,7 @@ Number of possible times: 1
 Wed: 12:10 - 1:30
 Name: Della Burke
 Email: db1000@wildcats.unh.edu
-Lecture: CB
+Professor: CB
 Year: 4
 Sex: Female
 Number of good times: 2
@@ -2406,7 +2406,7 @@ Tue: 3:10 - 4:30
 Number of possible times: 0
 Name: Samuel McNeil
 Email: sam1032@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 1
 Sex: Male
 Number of good times: 2
@@ -2416,7 +2416,7 @@ Number of possible times: 1
 Tue: 2:10 - 3:30
 Name: Chelsea Evankow
 Email: cae2003@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 2
 Sex: Female
 Number of good times: 1
@@ -2425,7 +2425,7 @@ Number of possible times: 1
 Tue: 11:10 - 12:30
 Name: khloe Obrien
 Email: Kco1000@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 1
 Sex: Female
 Number of good times: 2
@@ -2436,7 +2436,7 @@ Tue: 12:40 - 2:00
 Thu: 12:40 - 2:00
 Name: Elizabeth Suschana
 Email: eas2007@wildcat.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 2
 Sex: Female
 Number of good times: 2
@@ -2446,7 +2446,7 @@ Number of possible times: 1
 Tue: 9:40 - 11:00
 Name: Danielle Gajewski
 Email: dmg2002@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 2
 Sex: Female
 Number of good times: 1
@@ -2462,7 +2462,7 @@ Thu: 2:10 - 3:40
 Thu: 3:40 - 5:00
 Name: Margaret Phillips
 Email: mp1060@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 1
 Sex: Female
 Number of good times: 2
@@ -2474,7 +2474,7 @@ Tue: 12:40 - 2:00
 Thu: 1:10 - 2:30
 Name: Cassandra (Cassie) Putsch
 Email: cgp1000@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 1
 Sex: Female
 Number of good times: 5
@@ -2488,7 +2488,7 @@ Wed: 12:10 - 1:30
 Thu: 3:40 - 5:00
 Name: KELLY GALLANT
 Email: kng2009@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 3
 Sex: Female
 Number of good times: 5
@@ -2502,7 +2502,7 @@ Tue: 12:40 - 2:00
 Thu: 1:10 - 2:30
 Name: Alexis Vontz
 Email: agv2002@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 2
 Sex: Female
 Number of good times: 1
@@ -2518,7 +2518,7 @@ Wed: 4:10 - 5:30
 Thu: 12:40 - 2:00
 Name: Stephanie  Fulton
 Email: smy322@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 3
 Sex: Female
 Number of good times: 1
@@ -2528,7 +2528,7 @@ Tue: 2:10 - 3:30
 Wed: 12:10 - 1:30
 Name: Derek Chaput
 Email: dsc2002@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 2
 Sex: Male
 Number of good times: 8
@@ -2556,7 +2556,7 @@ Thu: 2:10 - 3:40
 Thu: 3:40 - 5:00
 Name: Jasmin Nunes
 Email: jn1028@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -2565,7 +2565,7 @@ Number of possible times: 1
 Tue: 12:40 - 2:00
 Name: Kennedy Sterenberg
 Email: kjs1027@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 1
 Sex: Male
 Number of good times: 1
@@ -2573,7 +2573,7 @@ Tue: 9:40 - 11:00
 Number of possible times: 0
 Name: Kali Scott
 Email: kes1004@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 1
 Sex: Female
 Number of good times: 2
@@ -2583,7 +2583,7 @@ Number of possible times: 1
 Thu: 3:40 - 5:00
 Name: Elizabeth Kinder
 Email: esk2001@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 2
 Sex: Female
 Number of good times: 1
@@ -2592,7 +2592,7 @@ Number of possible times: 1
 Thu: 2:10 - 3:40
 Name: Kyra Grasso
 Email: kg1001@gmail.com
-Lecture: KW10
+Professor: KW10
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -2601,7 +2601,7 @@ Number of possible times: 1
 Tue: 12:40 - 2:00
 Name: Malia Roberto
 Email: mfr2001@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 2
 Sex: Female
 Number of good times: 1
@@ -2610,7 +2610,7 @@ Number of possible times: 1
 Wed: 3:10 - 4:30
 Name: Abigail  Mokanyk
 Email: arm1007@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 1
 Sex: Female
 Number of good times: 2
@@ -2621,7 +2621,7 @@ Tue: 2:10 - 3:30
 Tue: 3:10 - 4:30
 Name: ISHPREET BURMAN
 Email: ib1@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 3
 Sex: Male
 Number of good times: 4
@@ -2649,7 +2649,7 @@ Thu: 2:10 - 3:40
 Thu: 3:40 - 5:00
 Name: Tess Savas
 Email: tas2000@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 2
 Sex: Female
 Number of good times: 3
@@ -2661,7 +2661,7 @@ Tue: 2:10 - 3:30
 Thu: 12:40 - 2:00
 Name: Nicola Eremita
 Email: nee1000@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 1
 Sex: Female
 Number of good times: 3
@@ -2676,7 +2676,7 @@ Thu: 12:40 - 2:00
 Thu: 3:40 - 5:00
 Name: Cayla Penny
 Email: cap1004@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -2687,7 +2687,7 @@ Tue: 12:40 - 2:00
 Tue: 2:10 - 3:30
 Name: Morgan Leadbetter
 Email: mll1028@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -2695,7 +2695,7 @@ Mon: 4:40 - 6:00
 Number of possible times: 0
 Name: Hannah Haskell
 Email: hvh1000@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 1
 Sex: Female
 Number of good times: 0
@@ -2703,7 +2703,7 @@ Number of possible times: 1
 Mon: 2:40 - 4:00
 Name: Natasha Fansiwala
 Email: nkf2000@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 2
 Sex: Female
 Number of good times: 1
@@ -2711,7 +2711,7 @@ Tue: 3:40 - 5:00
 Number of possible times: 0
 Name: Jordan O'Brien
 Email: jo2016@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 2
 Sex: Male
 Number of good times: 1
@@ -2720,7 +2720,7 @@ Number of possible times: 1
 Thu: 12:40 - 2:00
 Name: Delaine Kelly
 Email: dee57@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 3
 Sex: Female
 Number of good times: 2
@@ -2748,7 +2748,7 @@ Thu: 2:10 - 3:40
 Thu: 3:40 - 5:00
 Name: Molly Morgan
 Email: mcc96@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 3
 Sex: Female
 Number of good times: 2
@@ -2759,7 +2759,7 @@ Tue: 5:40 - 7:00
 Thu: 3:40 - 5:00
 Name: John Prud'hommeJohn
 Email: jdp1008@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 1
 Sex: Male
 Number of good times: 9
@@ -2776,7 +2776,7 @@ Number of possible times: 1
 Tue: 10:40 - 1:00
 Name: Alyssa Kolbert
 Email: akk2000@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 2
 Sex: Female
 Number of good times: 3
@@ -2787,7 +2787,7 @@ Number of possible times: 1
 Mon: 4:40 - 6:00
 Name: Amelia Quigley
 Email: akq2000@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 2
 Sex: Female
 Number of good times: 3
@@ -2799,7 +2799,7 @@ Tue: 3:40 - 5:00
 Tue: 5:40 - 7:00
 Name: Tessa Griffin
 Email: tcg1002@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 1
 Sex: Female
 Number of good times: 4
@@ -2812,7 +2812,7 @@ Tue: 9:40 - 11:00
 Thu: 10:40 - 12:00
 Name: Danielle Zuliani
 Email: drz2000@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 2
 Sex: Female
 Number of good times: 1
@@ -2821,7 +2821,7 @@ Number of possible times: 1
 Tue: 2:10 - 3:30
 Name: Monica Roman
 Email: mir1000@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 1
 Sex: Female
 Number of good times: 2
@@ -2849,7 +2849,7 @@ Thu: 2:10 - 3:40
 Thu: 3:40 - 5:00
 Name: Juliana Holcomb
 Email: jmh1035@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 1
 Sex: Female
 Number of good times: 2
@@ -2858,7 +2858,7 @@ Wed: 3:10 - 4:30
 Number of possible times: 0
 Name: <Unanswered> Tomasino
 Email: And@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 1
 Sex: Male
 Number of good times: 3
@@ -2869,7 +2869,7 @@ Number of possible times: 1
 Wed: 3:10 - 4:30
 Name: Amanda Gould
 Email: aag2003@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 2
 Sex: Female
 Number of good times: 3
@@ -2885,7 +2885,7 @@ Thu: 10:40 - 12:00
 Thu: 2:10 - 3:40
 Name: Kyle Zabroski
 Email: kz2000@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 2
 Sex: Male
 Number of good times: 1
@@ -2893,7 +2893,7 @@ Wed: 12:10 - 1:30
 Number of possible times: 0
 Name: Clare Griffin
 Email: cmu982@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 3
 Sex: Female
 Number of good times: 3
@@ -2904,7 +2904,7 @@ Number of possible times: 1
 Thu: 1:10 - 2:30
 Name: Paige Kezerian
 Email: pmk2001@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 2
 Sex: Female
 Number of good times: 2
@@ -2918,7 +2918,7 @@ Wed: 12:10 - 1:30
 Wed: 4:10 - 5:30
 Name: Spencer Sullivan
 Email: sss2003@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 2
 Sex: Male
 Number of good times: 1
@@ -2926,7 +2926,7 @@ Mon: 2:40 - 4:00
 Number of possible times: 0
 Name: iscar pujols
 Email: ip2001@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 2
 Sex: Male
 Number of good times: 2
@@ -2935,7 +2935,7 @@ Thu: 11:10 - 12:30
 Number of possible times: 0
 Name: Gabrielle Woodruff
 Email: gw1009@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 1
 Sex: Female
 Number of good times: 8
@@ -2953,7 +2953,7 @@ Tue: 3:40 - 5:00
 Tue: 5:40 - 7:00
 Name: Nathan Cunningham
 Email: nmc2004@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 2
 Sex: Male
 Number of good times: 6
@@ -2981,7 +2981,7 @@ Thu: 2:10 - 3:40
 Thu: 3:40 - 5:00
 Name: Abigail Keenan
 Email: abigailkeenan11@gmail.com
-Lecture: KW10
+Professor: KW10
 Year: 0
 Sex: Female
 Number of good times: 2
@@ -2992,7 +2992,7 @@ Tue: 12:40 - 2:00
 Thu: 12:40 - 2:00
 Name: Grace LaMuraglia
 Email: gak34@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 3
 Sex: Female
 Number of good times: 4
@@ -3006,7 +3006,7 @@ Tue: 3:10 - 4:30
 Tue: 3:40 - 5:00
 Name: Abigail Lawlor
 Email: asl1006@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -3015,7 +3015,7 @@ Number of possible times: 1
 Mon: 2:40 - 4:00
 Name: Kevin Walsh
 Email: ktx33@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 3
 Sex: Male
 Number of good times: 2
@@ -3026,7 +3026,7 @@ Tue: 2:10 - 3:30
 Thu: 2:10 - 3:40
 Name: CIerra Dumont
 Email: csd2002@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 2
 Sex: Female
 Number of good times: 1
@@ -3036,7 +3036,7 @@ Tue: 3:10 - 4:30
 Tue: 3:40 - 5:00
 Name: Jacob Petlon
 Email: jgc37@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 3
 Sex: Male
 Number of good times: 1
@@ -3044,7 +3044,7 @@ Tue: 3:40 - 5:00
 Number of possible times: 0
 Name: Abigail Moberg
 Email: acm1015@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 1
 Sex: Female
 Number of good times: 4
@@ -3059,7 +3059,7 @@ Wed: 3:10 - 4:30
 Thu: 1:10 - 2:30
 Name: Josee Brunault
 Email: jhp68@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 3
 Sex: Female
 Number of good times: 4
@@ -3072,7 +3072,7 @@ Tue: 12:40 - 2:00
 Wed: 11:10 - 12:30
 Name: Kimberly McCloy
 Email: ksm1016@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 3
 Sex: Female
 Number of good times: 2
@@ -3084,7 +3084,7 @@ Tue: 9:40 - 11:00
 Wed: 3:10 - 4:30
 Name: Christine Leach
 Email: cel1016@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 1
 Sex: Female
 Number of good times: 1
@@ -3093,7 +3093,7 @@ Number of possible times: 1
 Tue: 3:10 - 4:30
 Name: Kaia Gerlovin
 Email: klg2003@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 2
 Sex: Female
 Number of good times: 3
@@ -3105,7 +3105,7 @@ Tue: 3:40 - 5:00
 Thu: 11:10 - 12:30
 Name: Ellen Bruton
 Email: emb2013@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 2
 Sex: Female
 Number of good times: 1
@@ -3115,7 +3115,7 @@ Wed: 11:10 - 12:30
 Wed: 12:10 - 1:30
 Name: Jennifer King
 Email: jlk2004@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 2
 Sex: Female
 Number of good times: 0
@@ -3127,7 +3127,7 @@ Wed: 12:10 - 1:30
 Wed: 3:10 - 4:30
 Name: Leah Calderazzo
 Email: lc1046@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 2
 Sex: Female
 Number of good times: 2
@@ -3139,7 +3139,7 @@ Tue: 3:10 - 4:30
 Tue: 3:40 - 5:00
 Name: Alexandra Melnyk
 Email: asm2002@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 2
 Sex: Female
 Number of good times: 4
@@ -3154,7 +3154,7 @@ Thu: 10:40 - 12:00
 Thu: 11:10 - 12:30
 Name: Christy Riccio
 Email: cyr1000@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 1
 Sex: Female
 Number of good times: 3
@@ -3167,7 +3167,7 @@ Tue: 3:10 - 4:30
 Thu: 2:10 - 3:40
 Name: Kiley Drummond
 Email: UNH@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 1
 Sex: Female
 Number of good times: 3
@@ -3177,7 +3177,7 @@ Wed: 3:10 - 4:30
 Number of possible times: 0
 Name: Vana Jovic
 Email: Usi@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 1
 Sex: Female
 Number of good times: 3
@@ -3187,7 +3187,7 @@ Thu: 1:10 - 2:30
 Number of possible times: 0
 Name: John DelliSanti
 Email: jsd1006@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 1
 Sex: Male
 Number of good times: 2
@@ -3215,7 +3215,7 @@ Thu: 2:10 - 3:40
 Thu: 3:40 - 5:00
 Name: Rachel Russell
 Email: rek54@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 3
 Sex: Female
 Number of good times: 3
@@ -3226,7 +3226,7 @@ Number of possible times: 1
 Thu: 10:40 - 12:00
 Name: Fallon Greene
 Email: fsg2000@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 2
 Sex: Male
 Number of good times: 1
@@ -3235,7 +3235,7 @@ Number of possible times: 1
 Wed: 11:10 - 12:30
 Name: Michael Weller
 Email: mw1100@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 1
 Sex: Male
 Number of good times: 3
@@ -3245,7 +3245,7 @@ Tue: 9:40 - 11:00
 Number of possible times: 0
 Name: Delaney Hutchins
 Email: djh2001@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 2
 Sex: Female
 Number of good times: 1
@@ -3253,7 +3253,7 @@ Wed: 11:10 - 12:30
 Number of possible times: 0
 Name: Naomi Holm
 Email: nh1025@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 1
 Sex: Female
 Number of good times: 3
@@ -3266,7 +3266,7 @@ Tue: 12:40 - 2:00
 Thu: 9:10 - 10:30
 Name: Benjamin Halsey
 Email: beh1005@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 2
 Sex: Male
 Number of good times: 18
@@ -3294,7 +3294,7 @@ Wed: 12:10 - 1:30
 Thu: 3:40 - 5:00
 Name: Megan Zuliani
 Email: mpf487@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 3
 Sex: Female
 Number of good times: 2
@@ -3304,7 +3304,7 @@ Number of possible times: 1
 Wed: 12:10 - 1:30
 Name: Emily Estes
 Email: ele2000@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 2
 Sex: Female
 Number of good times: 3
@@ -3319,7 +3319,7 @@ Wed: 3:10 - 4:30
 Thu: 1:10 - 2:30
 Name: John Domenico
 Email: jrd2006@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 2
 Sex: Male
 Number of good times: 1
@@ -3328,7 +3328,7 @@ Number of possible times: 1
 Tue: 10:40 - 1:00
 Name: Jessica Sexton
 Email: jrs1004@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 1
 Sex: Female
 Number of good times: 0
@@ -3336,7 +3336,7 @@ Number of possible times: 1
 Tue: 10:40 - 1:00
 Name: Jordan Oligny
 Email: jo1018@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 1
 Sex: Male
 Number of good times: 1
@@ -3344,7 +3344,7 @@ Tue: 12:40 - 2:00
 Number of possible times: 0
 Name: Cecilia Caraballo
 Email: cac1@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 3
 Sex: Female
 Number of good times: 4
@@ -3372,7 +3372,7 @@ Thu: 2:10 - 3:40
 Thu: 3:40 - 5:00
 Name: Brianna Nelson
 Email: bln2000@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 2
 Sex: Female
 Number of good times: 12
@@ -3400,7 +3400,7 @@ Thu: 9:10 - 10:30
 Thu: 3:40 - 5:00
 Name: Jonah Francke
 Email: jf1051@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 1
 Sex: Male
 Number of good times: 3
@@ -3412,7 +3412,7 @@ Tue: 2:10 - 3:30
 Thu: 12:40 - 2:00
 Name: Amelia Mecklenburg
 Email: amm2016@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 2
 Sex: Female
 Number of good times: 1
@@ -3421,7 +3421,7 @@ Number of possible times: 1
 Tue: 2:10 - 3:30
 Name: Cooper-John Trapp
 Email: cpe48@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 1
 Sex: Male
 Number of good times: 3
@@ -3449,7 +3449,7 @@ Thu: 12:40 - 2:00
 Thu: 3:40 - 5:00
 Name: Eliza Chekas
 Email: ec2006@wildcats.unh.edu
-Lecture: KW10
+Professor: KW10
 Year: 2
 Sex: Female
 Number of good times: 1
